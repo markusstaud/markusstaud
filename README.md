@@ -2,10 +2,12 @@
 👀 I’m interested in:
 - embedded FW
 - computer architectures
+
 🌱 I’m currently learning:
 - FPGA
 - RISC-V
 - Symbiflow
+
 💞️ I’m looking to collaborate on ...
 📫 How to reach me ...
 
